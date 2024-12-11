@@ -6,7 +6,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2024-5-8
 venue: 'Heliyon(JCR Q1)'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Zhao, Q., Liu, W., Li, K., Wei, Y., & Han, Y. (2024). Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head. Heliyon, 10(9).'
 ---
 
