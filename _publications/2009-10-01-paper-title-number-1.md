@@ -3,7 +3,7 @@ title: "Cnns-transformer based day-ahead probabilistic load forecasting for week
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'I am as the second author'
+excerpt: 'I am the second author'
 date: 2024-2-12.
 venue: 'Energy(JCR Q1)'
 citation: 'Tian, Z., Liu, W., Jiang, W., & Wu, C. (2024). Cnns-transformer based day-ahead probabilistic load forecasting for weekends with limited data availability. Energy, 293, 130666.'
