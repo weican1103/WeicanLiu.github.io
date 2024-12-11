@@ -21,10 +21,14 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 News in 2024
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2024.9.13 My paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on Energy (JCR Q1, IF=9) has been honored as an ESI Highly Cited Paper (TOP 1%). I am the second author Congratulations!
+
+2024.8.22 My conference paper ["Improving Load Forecasting Accuracy through Data Augmentation and TCNs-Transformer"](https://ieeexplore.ieee.org/abstract/document/10721021) was published in the 2024 4th Power System and Green Energy Conference (PSGEC). I am the corresponding author of this paper. 
+
+2024.7.21 My conference paper ["Load Forecasting with Deep Learning: Critical Day Matters"](https://ieeexplore.ieee.org/abstract/document/10688616) was published in the 2024 IEEE Power & Energy Society General Meeting (PESGM). I am the first author of this paper, supervised by Prof. Chenye Wu.
+
+2024.5.15 My paper ["Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head"](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06697-0) was published on Heliyon (JCR Q1, IF=4.0) I am the first student author and corresponding author of this paper, supervised by Prof.Yinghua Han.
+
+
+
 
