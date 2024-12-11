@@ -3,7 +3,7 @@ title: "Improving Load Forecasting Accuracy through Data Augmentation and TCNs-T
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
-excerpt: 'I am as the corresponding author'
+excerpt: 'I am the corresponding author'
 date: 2024-8-22
 venue: '2024 4th Power System and Green Energy Conference (PSGEC)'
 citation: 'Li, Q., Qiu, Y., Liu, W., & Luan, J. (2024, August). Improving Load Forecasting Accuracy through Data Augmentation and TCNs-Transformer. In 2024 4th Power System and Green Energy Conference (PSGEC) (pp. 65-69). IEEE.'
