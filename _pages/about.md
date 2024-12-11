@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Electrical & Electronic Engineering, Nanyang Technological University and my major is Computer Engineering (CE). Previously, I worked as an Algorithm Engineer Intern at the Cross-Straits Tsinghua Research Institute, supervised by Prof. Nangjie Gong. Additionally, I worked as a Research Intern at The Chinese University of Hong Kong, Shenzhen, supervised by Prof. Chenye Wu. Before that, I obtained a bachelor’s degree at the School of Computer and Communication Engineering, Northeastern University, supervised by Prof. Yinghua Han. I ranked in the top 15% in the School of Computer and Communication Engineering, NEU with a GPA of (86/100).
+Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Electrical & Electronic Engineering, Nanyang Technological University and my major is Communication Engineering (CE). Previously, I worked as an Algorithm Engineer Intern at the Cross-Straits Tsinghua Research Institute, supervised by Prof. Nangjie Gong. Additionally, I worked as a Research Intern at The Chinese University of Hong Kong, Shenzhen, supervised by Prof. Chenye Wu. Before that, I obtained a bachelor’s degree at the School of Computer and Communication Engineering, Northeastern University, supervised by Prof. Yinghua Han. I ranked in the top 15% in the School of Computer and Communication Engineering, NEU with a GPA of (86/100).
 
 A data-driven personal website
 ======
