@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Load Forecasting with Deep Learning: Critical Day Matters"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'I am the first author.'
+date: 2024-7-21
+venue: '2024 IEEE Power & Energy Society General Meeting (PESGM)'
+citation: 'Liu, W., Tian, Z., Cui, J., & Wu, C. (2024, July). Load Forecasting with Deep Learning: Critical Day Matters. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Accurate load forecasting is crucial for efficient power system management. Yet, it is particularly challenging during critical days, such as weekends and holidays, due to limited data samples and atypical load patterns. This study presents a tailored load prediction framework that leverages data preprocessing and deep learning to address these challenges. The framework incorporates a noise-reduction step, trend information, and critical day indicators into the data preprocessing phase. The deep learning component integrates a Convolutional Neural Network (CNN) for spatial feature extraction, a Long Short-Term Memory (LSTM) network for temporal feature analysis, and a Transformer to enhance forecasting accuracy through an encoder-decoder architecture and mixed spatio-temporal feature learning. Evaluation of two years of electricity load data from a southern Chinese industrial city confirms the framework’s efficacy in improving load forecasting during critical periods.
