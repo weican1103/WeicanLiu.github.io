@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+excerpt: ''
+date: 2024-5-8
+venue: 'Heliyon(JCR Q1)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Zhao, Q., Liu, W., Li, K., Wei, Y., & Han, Y. (2024). Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head. Heliyon, 10(9).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Non-intrusive load monitoring (NILM) offers precise insights into equipment-level energy consumption by analyzing current and voltage data from residential smart meters, thus emerging as a potential strategy for demand-side management in power systems. However, a prevalent limitation in current NILM techniques is the presupposition of a known inventory of household appliances, an assumption that often becomes impractical due to the regular introduction of new appliances by consumers. To address this challenge, our approach integrates a vision transformer network with an additional detection head (ViTD), utilizing V-I trajectory images. Initially, the ViT model is trained to classify known appliances. Subsequently, an additional detection head is incorporated to manipulate the embedded features, encouraging the formation of distinct, compact class centers for the known appliance categories. During testing, samples are identified as either known or unknown appliances based on their proximity to these class centers. We utilize two public datasets, PLAID and WHITED, to demonstrate the effectiveness and superiority of our proposed method.
