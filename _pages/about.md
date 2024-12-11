@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Electrical & Electronic Engineering, Nanyang Technological University and my major is Computer Engineering (CE). Previously, I worked as an Algorithm Engineer Intern at the Cross-Straits Tsinghua Research Institute, supervised by Prof. Nangjie Gong. Additionally, I worked as a Research Intern at The Chinese University of Hong Kong, Shenzhen, supervised by Prof. Chenye Wu. Before that, I obtained a bachelor’s degree at the School of Computer and Communication Engineering, Northeastern University, supervised by Prof. Yinghua Han. I ranked in the top 15% in the School of Computer and Communication Engineering, NEU with a GPA of (86/100).
 
 A data-driven personal website
 ======
