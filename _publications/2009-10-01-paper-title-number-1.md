@@ -3,6 +3,7 @@ title: "Cnns-transformer based day-ahead probabilistic load forecasting for week
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: ''
 date: 2024-2-12.
 venue: 'Energy(JCR Q1)'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S0360544224004389)'
