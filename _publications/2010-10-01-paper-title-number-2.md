@@ -3,7 +3,7 @@ title: "Unknown appliances detection for non-intrusive load monitoring based on 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'I am as the first student author and corresponding author'
+excerpt: 'I am the first student author as well as corresponding author'
 date: 2024-5-8
 venue: 'Heliyon(JCR Q1)'
 citation: 'Zhao, Q., Liu, W., Li, K., Wei, Y., & Han, Y. (2024). Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head. Heliyon, 10(9).'
