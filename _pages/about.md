@@ -19,6 +19,12 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 4. **Enhancing Load Forecasting Accuracy for critical Days**: Due to the limited sample size and the influence of various factors on load variation patterns, the volatility of critical days significantly differs from that of regular weekdays. Leveraging features such as extreme weather conditions and holiday-specific information to improve load forecasting accuracy for holidays presents an interesting challenge.
 
+**Working Experience**
+======
+1. Oct. 2024 - Dec. 2024 Intern in [Cross-Straits Tsinghua Research Institute](https://tsinghua-hx.org.cn/)
+
+2. Jun. 2023 - Sep. 2023 Intern in [The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/).
+
 News in 2024
 ======
 2024.12.11 My paper on the topic of load forecasting has received the first-round revision comments and was submitted to the journal **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
