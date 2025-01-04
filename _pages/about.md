@@ -21,7 +21,7 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 **Working Experience**
 ======
-1. Oct. 2024 - Dec. 2024 Research Intern in Cross-Straits Tsinghua Research Institute.
+1. Sep. 2024 - Dec. 2024 Research Intern in Cross-Straits Tsinghua Research Institute.
 
 2. Jun. 2023 - Sep. 2023 Research Intern in The Chinese University of Hong Kong, Shenzhen.
 
