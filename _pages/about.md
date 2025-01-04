@@ -29,11 +29,13 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 News in 2024
 ======
+2025.1.04  Our paper "EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch" was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the second author of this paper, supervised by Prof. Chenye Wu.
+
 2024.12.30 My paper on the topic of load forecasting has been submitted as a revised manuscript in 2nd revision to the journal **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
 
 2024.12.11 My paper on the topic of load forecasting has received in 1st revision, which was submitted to the journal **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
 
-2024.9.13 My paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on **Energy** (JCR Q1, IF=9) has been honored as an ESI Highly Cited Paper (TOP 1%). I am the second author. Congratulations!
+2024.9.13 Our paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on **Energy** (JCR Q1, IF=9) has been honored as an ESI Highly Cited Paper (TOP 1%). I am the second author. Congratulations!
 
 2024.8.22 My conference paper ["Improving Load Forecasting Accuracy through Data Augmentation and TCNs-Transformer"](https://ieeexplore.ieee.org/abstract/document/10721021) was published in the 2024 4th Power System and Green Energy Conference (PSGEC). I am the corresponding author of this paper. 
 
