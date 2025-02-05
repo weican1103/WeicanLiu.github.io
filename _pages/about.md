@@ -27,7 +27,7 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 3. Jun. 2022 - May. 2023 Research Intern in Smart Grid Lab of Northeastern University.
 
-News in 2024
+News
 ======
 2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
 
