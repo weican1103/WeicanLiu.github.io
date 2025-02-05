@@ -29,9 +29,9 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master student at the School of Elec
 
 News in 2024
 ======
-2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub). was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
+2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
 
-2025.1.04  Our paper ["EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch"](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub). was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the second author of this paper, supervised by Prof. Chenye Wu.
+2025.1.04  Our paper ["EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch"](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub) was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the second author of this paper, supervised by Prof. Chenye Wu.
 
 2024.12.11 My paper on the topic of load forecasting has received in 1st revision, which was submitted to the journal **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
 
