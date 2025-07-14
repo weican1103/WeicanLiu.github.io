@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I am Weican Liu (柳炜灿), a Master's student in Communication Engineering from the School of Electrical & Electronic Engineering (EEE) at Nanyang Technological University, supervised by [Prof. Yan XU](https://eexuyan.github.io/soda/index.html). I earned my bachelor's degree in Communication Engineering from the School of Computer and Communication Engineering at Northeastern University, supervised by [Prof. Yinghua Han](https://ieeexplore.ieee.org/author/37293173100) I was a visiting student researcher at The Chinese University of Hong Kong, Shenzhen from Jun. 2023 to Apr. 2024, supervised by [Prof. Chenye Wu](https://www.wuchenye.cn/index-cn.html). I was a visiting student researcher at North China Electric Power University from Aug. 2025 to Aug. 2025, supervised by Prof. Fan Hang and Prof. Dunnan Liu. My GPA in Master's is currently 3.30/5.00 (83/100), and in Bachelor's is 3.40/5.00 (84/100).
+Hi everyone! I am Weican Liu (柳炜灿), a Master's student in Communication Engineering from the School of Electrical & Electronic Engineering (EEE) at Nanyang Technological University, supervised by [Prof. Yan XU](https://eexuyan.github.io/soda/index.html). I earned my bachelor's degree in Communication Engineering from the School of Computer and Communication Engineering at Northeastern University, supervised by [Prof. Yinghua Han](https://ieeexplore.ieee.org/author/37293173100). I was a visiting student researcher at The Chinese University of Hong Kong, Shenzhen from Jun. 2023 to Apr. 2024, supervised by [Prof. Chenye Wu](https://www.wuchenye.cn/index-cn.html). I was a visiting student researcher at North China Electric Power University from Apr. 2025 to Aug. 2025, supervised by [Prof. Fan Hang](https://scholar.google.com.hk/citations?user=piQg--AAAAAJ&hl=zh-CN&oi=ao) and [Prof. Dunnan Liu](). My GPA in Master's is currently 3.30/5.00 (83/100), and in Bachelor's is 3.40/5.00 (84/100). I've collaborated with scholars from universities including NTU, CUHKSZ, Tsinghua University, Nanjing University, Southeast University, and North China Electric Power University. Our research has been published in international journals such as Applied Energy, Energy, Renewable Energy, and Information Fusion.
 
-**My Interests**
+**Research Interests**
 ======
 1. **Hybrid Framework Design for Ultra-short-term Time-Series Prediction**: My work involves the integration of various modeling approaches (such as ensemble model, combined model, and strategies after prediction) to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading. We also explore the impact of data processing on prediction results, including data augmentation, feature engineering, de-nosing strategy, and some fuzzy methods.
 
@@ -21,11 +21,13 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master's student in Communication En
 
 **Working Experience**
 ======
-1. Sep. 2024 - Dec. 2024 Research Intern in Cross-Straits Tsinghua Research Institute.
+1. Apr. 2025 - Aug. 2025 Research Intern in Huadian Energy Internet Research Institute.
 
-2. Jun. 2023 - Sep. 2023 Research Intern in The Chinese University of Hong Kong, Shenzhen.
+2. Sep. 2024 - Dec. 2024 Research Intern in Cross-Straits Tsinghua Research Institute.
 
-3. Jun. 2022 - May. 2023 Research Intern in Smart Grid Lab of Northeastern University.
+3. Jun. 2023 - Sep. 2023 Research Intern in The Chinese University of Hong Kong, Shenzhen.
+
+4. Jun. 2022 - May. 2023 Research Intern in Smart Grid Lab of Northeastern University.
 
 News
 ======
