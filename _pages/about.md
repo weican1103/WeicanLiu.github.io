@@ -30,7 +30,15 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 **Selected Publications**
 ======
 
-1. **Weican Liu**, Mei Gai, **Renewable Energy**, "PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting"[PDF](https://www.sciencedirect.com/science/article/pii/S0960148125009395).
+1. **Weican Liu**, Mei Gai, **Renewable Energy** (JCR Q1, IF = 9.1), "PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting" [PDF](https://www.sciencedirect.com/science/article/pii/S0960148125009395).
+
+2. **Weican Liu**, Zhirui Tian, Yuyan Qiu, **Expert Systems with Applications** (JCR Q1, IF = 7.5), "Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction" [PDF](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub).
+
+3. **Weican Liu**, Zhirui Tian, Jingshi Cui, Chenye Wu, **2024 IEEE Power & Energy Society General Meeting (PESGM)**, "Load Forecasting with Deep Learning: Critical Day Matters" [PDF](https://ieeexplore.ieee.org/abstract/document/10688616).
+
+4. Zhirui Tian, **Weican Liu**, Wenqian Jiang, Chenye Wu,  **Energy** (JCR Q1, IF = 9), “CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability” [PDF](https://www.sciencedirect.com/science/article/pii/S0360544224004389).
+
+5. 
 
 
 
