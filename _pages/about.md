@@ -38,7 +38,7 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 
 4. Zhirui Tian, **Weican Liu**, Wenqian Jiang, Chenye Wu,  **Energy** (JCR Q1, IF = 9), “CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability” [PDF](https://www.sciencedirect.com/science/article/pii/S0360544224004389).
 
-5. Zhirui Tian, **Weican Liu**, Jiahao Zhang, Wenpu Sun, Chenye Wu, **Applied Energy** (JCR Q1, IF=10.1), "EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch" [PDF](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub).
+5. Zhirui Tian, **Weican Liu**, Jiahao Zhang, Wenpu Sun, Chenye Wu, **Applied Energy** (JCR Q1, IF = 10.1), "EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch" [PDF](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub).
 
 6. Zhirui Tian, **Weican Liu**, Wenpu Sun, Chenye Wu, **Energy** (JCR Q1, IF = 9), "From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble" [PDF](https://www.sciencedirect.com/science/article/pii/S0360544225015683).
 
@@ -47,7 +47,9 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 
 News
 ======
-2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion] was under review in **Applied Energy** (JCR Q1, IF=10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
+2025.7.20 Our paper [DS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion] was under review in **Energy Conversion and Management** (JCR Q1, IF = 10.9), where I am the **first student author and corresponding author**. This work focuses on PV forecasting, co-authored with NTU and NCEPU.
+
+2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion] was under review in **Applied Energy** (JCR Q1, IF = 10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
 
 2025.7.10 Our paper [Epformer: Unlocking Day-Ahead Electricity Price Forecasting Accuracy Using the Time-Frequency Domain Feature Learning Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274998) was under review in **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first student author and corresponding author**.
 
