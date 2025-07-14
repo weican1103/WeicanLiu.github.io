@@ -31,7 +31,9 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 ======
 
 "PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting"
+
 **Weican Liu**, Mei Gai
+
 **Renewable Energy**
 
 
