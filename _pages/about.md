@@ -23,6 +23,10 @@ My research focuses on AI for Energy Prediction, including Load, PV, EV, Electri
 
 4. Jun. 2022 - May. 2023 Research Intern in Smart Grid Lab of Northeastern University.
 
+**Academic Services**
+======
+Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Electrical Power & Energy Systems(IJEPES), EAAI, PES general meeting, etc.
+
 News
 ======
 2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
