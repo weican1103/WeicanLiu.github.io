@@ -27,6 +27,14 @@ My research focuses on AI for Energy Prediction, including Load, PV, EV, Electri
 ======
 Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Electrical Power & Energy Systems(IJEPES), EAAI, PES general meeting, etc.
 
+**Selected Publications**
+======
+
+"PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting"
+**Weican Liu**, Mei Gai
+**Renewable Energy**
+
+
 News
 ======
 2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
