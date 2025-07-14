@@ -47,7 +47,7 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 
 News
 ======
-2025.7.20 Our paper [DS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion] was under review in **Energy Conversion and Management** (JCR Q1, IF = 10.9), where I am the **first student author and corresponding author**. This work focuses on PV forecasting, co-authored with NTU and NCEPU.
+2025.7.20 Our paper [IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion] was under review in **Energy Conversion and Management** (JCR Q1, IF = 10.9), where I am the **first student author and corresponding author**. This work focuses on PV forecasting, co-authored with NTU and NCEPU.
 
 2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion] was under review in **Applied Energy** (JCR Q1, IF = 10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
 
