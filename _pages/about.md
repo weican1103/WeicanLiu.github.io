@@ -13,6 +13,8 @@ Hi everyone! I am Weican Liu (柳炜灿), a Master's student in Communication En
 ======
 My research focuses on **AI for Energy Prediction**, including Load, PV, EV, Electricity Price, and Wind Power, with broad interests in deep learning, economic dispatch, and power systems. Previously, my work focused on developing various hybrid time series forecasting models to improve energy prediction accuracy, which was to address the complexity and nonlinearity of energy data to promote efficient renewable energy grid integration. Currently, my research primarily focuses on developing efficient and accurate **end-to-end forecasting and scheduling models**. My aim is to address the challenge of objective function mismatch between forecasting and dispatching. Additionally, I've begun exploring the role of **large language models (LLMs)** in energy forecasting, to leverage large-scale data to research and optimize electric vehicle (EV) charging station planning.
 
+**Key words**: Energy Prediction; Economic Dispatch; Power Systems; NILM; LLMs
+
 **Working Experience**
 ======
 1. Apr. 2025 - Aug. 2025 Research Intern in Huadian Energy Internet Research Institute.
@@ -53,19 +55,19 @@ News
 
 2025.7.10 Our paper [Epformer: Unlocking Day-Ahead Electricity Price Forecasting Accuracy Using the Time-Frequency Domain Feature Learning Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274998) was under review in **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first student author and corresponding author**.
 
-2025.5.1 Our paper [Ensemble learning unlocking point load forecasting accuracy: A novel framework based on two-stage data preprocessing and improved multi-objective optimisation strategy](https://www.sciencedirect.com/science/article/pii/S0045790625002253) was accepted by **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
+2025.5.1 Our paper [Ensemble learning unlocking point load forecasting accuracy: A novel framework based on two-stage data preprocessing and improved multi-objective optimisation strategy](https://www.sciencedirect.com/science/article/pii/S0045790625002253) was accepted by **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the **corresponding author**.
 
-2025.4.25 Our paper [PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Renewable Energy** (JCR Q1, IF = 9.1), where I am the first author. 
+2025.4.25 Our paper [PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first author**. 
 
-2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
+2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the **first author**. 
 
-2025.1.04  Our paper ["EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch"](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub) was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the second author of this paper, supervised by Prof. Chenye Wu.
+2025.1.04  Our paper ["EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch"](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub) was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the **second author** of this paper, supervised by Prof. Chenye Wu.
 
 2024.9.13 Our paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on **Energy** (JCR Q1, IF=9) has been honored as an **ESI Highly Cited Paper (TOP 1%)**. Congratulations!
 
-2024.7.21 My conference paper ["Load Forecasting with Deep Learning: Critical Day Matters"](https://ieeexplore.ieee.org/abstract/document/10688616) was published in the 2024 IEEE Power & Energy Society General Meeting (PESGM). I am the first author of this paper, supervised by Prof. Chenye Wu.
+2024.7.21 My conference paper ["Load Forecasting with Deep Learning: Critical Day Matters"](https://ieeexplore.ieee.org/abstract/document/10688616) was published in the 2024 IEEE Power & Energy Society General Meeting (PESGM). I am the **first author** of this paper, supervised by Prof. Chenye Wu.
 
-2024.5.15 My paper ["Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head"](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06697-0) was published on **Heliyon** (JCR Q1, IF=4.0) I am the first student author and corresponding author of this paper, supervised by Prof.Yinghua Han.
+2024.5.15 My paper ["Unknown appliances detection for non-intrusive load monitoring based on vision transformer with an additional detection head"](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06697-0) was published on **Heliyon** (JCR Q1, IF=4.0) I am the **first student author and corresponding author** of this paper, supervised by Prof.Yinghua Han.
 
 
 
