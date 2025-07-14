@@ -38,22 +38,28 @@ Reviewers for TPWRS, Renewable Energy, ESWA, NCAA, International Journal of Elec
 
 4. Zhirui Tian, **Weican Liu**, Wenqian Jiang, Chenye Wu,  **Energy** (JCR Q1, IF = 9), “CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability” [PDF](https://www.sciencedirect.com/science/article/pii/S0360544224004389).
 
-5. 
+5. Zhirui Tian, **Weican Liu**, Jiahao Zhang, Wenpu Sun, Chenye Wu, **Applied Energy** (JCR Q1, IF=10.1), "EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch" [PDF](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub).
+
+6. Zhirui Tian, **Weican Liu**, Wenpu Sun, Chenye Wu, **Energy** (JCR Q1, IF = 9), "From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble" [PDF](https://www.sciencedirect.com/science/article/pii/S0360544225015683).
 
 
 
 
 News
 ======
+2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion] was under review in **Applied Energy** (JCR Q1, IF=10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
+
+2025.7.10 Our paper [Epformer: Unlocking Day-Ahead Electricity Price Forecasting Accuracy Using the Time-Frequency Domain Feature Learning Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274998) was under review in **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first student author and corresponding author**.
+
+2025.5.1 Our paper [Ensemble learning unlocking point load forecasting accuracy: A novel framework based on two-stage data preprocessing and improved multi-objective optimisation strategy](https://www.sciencedirect.com/science/article/pii/S0045790625002253) was accepted by **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
+
+2025.4.25 Our paper [PV-MLP: A lightweight patch-based multi-layer perceptron network with time-frequency domain fusion for accurate long-sequence photovoltaic power forecasting](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Renewable Energy** (JCR Q1, IF = 9.1), where I am the first author. 
+
 2025.2.4 Our paper ["Enhancing accuracy in point-interval load forecasting: A new strategy based on data augmentation, customized deep learning, and weighted linear error correction"](https://www.sciencedirect.com/science/article/pii/S0957417425003082?via%3Dihub) was accepted by **Expert Systems with Applications** (JCR Q1, IF = 7.5), where I am the first author. 
 
 2025.1.04  Our paper ["EDformer Family: End to End Multi-task Load Forecasting Frameworks for Day-ahead Economic Dispatch"](https://www.sciencedirect.com/science/article/pii/S0306261925000492?via%3Dihub) was accepted by **Applied Energy** (JCR Q1, IF=10.1). I am the second author of this paper, supervised by Prof. Chenye Wu.
 
-2024.12.11 My paper on the topic of load forecasting has received in 1st revision, which was submitted to the journal **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the corresponding author.
-
-2024.9.13 Our paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on **Energy** (JCR Q1, IF=9) has been honored as an ESI Highly Cited Paper (TOP 1%). I am the second author. Congratulations!
-
-2024.8.22 My conference paper ["Improving Load Forecasting Accuracy through Data Augmentation and TCNs-Transformer"](https://ieeexplore.ieee.org/abstract/document/10721021) was published in the 2024 4th Power System and Green Energy Conference (PSGEC). I am the corresponding author of this paper. 
+2024.9.13 Our paper [“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”](https://www.sciencedirect.com/science/article/pii/S0360544224004389) published on **Energy** (JCR Q1, IF=9) has been honored as an **ESI Highly Cited Paper (TOP 1%)**. Congratulations!
 
 2024.7.21 My conference paper ["Load Forecasting with Deep Learning: Critical Day Matters"](https://ieeexplore.ieee.org/abstract/document/10688616) was published in the 2024 IEEE Power & Energy Society General Meeting (PESGM). I am the first author of this paper, supervised by Prof. Chenye Wu.
 
