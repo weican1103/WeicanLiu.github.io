@@ -51,9 +51,9 @@ News
 ======
 2025.7.20 Our paper [IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion] was under review in **Energy Conversion and Management** (JCR Q1, IF = 10.9), where I am the **first student author and corresponding author**. This work focuses on PV forecasting, co-authored with NTU and NCEPU.
 
-2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion] was under review in **Applied Energy** (JCR Q1, IF = 10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
+2025.7.15 Our paper [EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion](https://arxiv.org/abs/2507.09527) was under review in **Applied Energy** (JCR Q1, IF = 10.1), where I am the **Corresponding author**. This work focuses on LLMs for EV charging forecasting, co-authored with NTU and NCEPU.
 
-2025.7.10 Our paper [Epformer: Unlocking Day-Ahead Electricity Price Forecasting Accuracy Using the Time-Frequency Domain Feature Learning Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274998) was under review in **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first student author and corresponding author**.
+2025.7.10 Our paper [EPformer: Unlocking Day-Ahead Electricity Price Forecasting Accuracy Using the Time-Frequency Domain Feature Learning Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274998) was under review in **Renewable Energy** (JCR Q1, IF = 9.1), where I am the **first student author and corresponding author**.
 
 2025.5.1 Our paper [Ensemble learning unlocking point load forecasting accuracy: A novel framework based on two-stage data preprocessing and improved multi-objective optimisation strategy](https://www.sciencedirect.com/science/article/pii/S0045790625002253) was accepted by **Computers and Electrical Engineering** (JCR Q1, IF = 4.0), where I am the **corresponding author**.
 
